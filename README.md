@@ -1,146 +1,94 @@
 <div align="center">
 
-# Hi, I'm Sachin Dhule 👋
+# Sachin Dhule
 
-### Data Analyst | SQL • Python • Power BI • Excel
+**Data Analyst — SQL · Python · Power BI · Excel**
 
-Transforming raw data into meaningful business insights through analytics, visualization, and data-driven decision-making.
+Turning raw business data into decisions people can act on.
 
-[![Email](https://img.shields.io/badge/Email-dhules43%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhules43@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachindhule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachindhule)
-[![GitHub](https://img.shields.io/badge/GitHub-sachin--data--analyst1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachin-data-analyst1)
+[✉️ Email](mailto:dhules43@gmail.com) &nbsp;·&nbsp; [in LinkedIn](https://linkedin.com/in/sachindhule) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/sachin-data-analyst1)
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+## About
 
-- 🎓 Bachelor of Commerce (B.Com)
-- 💼 Former Data Analyst Intern at **Techonsy Software Pvt. Ltd.**
-- 📊 Skilled in SQL, Python, Power BI, Advanced Excel, and Data Analytics
-- 📈 Passionate about Business Intelligence, Data Visualization, ETL, and Analytics
-- 🌱 Currently learning **Azure Data Engineering** (ADF, Synapse, Databricks, ADLS)
-- 💬 Ask me about SQL query optimization, dashboard design, or KPI reporting
+I'm a B.Com graduate and former Data Analyst Intern at **Techonsy Software Pvt. Ltd.**, working at the intersection of SQL, Python, and BI tools to turn messy datasets into dashboards and decisions. I like the full loop — pulling data out of a database, validating it, and shipping something a stakeholder can actually use.
 
----
+Currently deepening my cloud skills with **Azure Data Engineering** (ADF, Synapse, Data Lake, Databricks).
 
-## 🛠️ Tech Stack
+<br>
 
-<div align="center">
+## How I Approach a Problem
 
-**Programming & Querying**
+| Step | What I do |
+|:--|:--|
+| **1. Understand** | Clarify the business question before touching a single row of data |
+| **2. Clean & Model** | Validate, structure, and query the data in SQL/Python — no dashboard until the numbers are trustworthy |
+| **3. Visualize & Recommend** | Build the dashboard and pair every chart with a plain-English takeaway |
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br>
 
-**Visualization & Analytics**
+## Tech Stack
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+| Category | Tools |
+|:--|:--|
+| **Querying & Programming** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy) |
+| **Visualization** | Power BI, Tableau, Advanced Excel |
+| **Cloud & Data Engineering** | Azure SQL Database, Azure Data Factory, Azure Synapse Analytics, Azure Data Lake, Azure Databricks |
+| **Tooling** | Git, GitHub, GitHub Copilot, ChatGPT |
 
-**Databases**
+<br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud & Data Engineering**
-
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-**Version Control & AI Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🏦 [Bank Credit Risk & Collections Analytics](https://github.com/sachin-data-analyst1/bank-credit-risk-collections-analytics)
-**Tech Stack:** SQL • Python • Excel
+`SQL` `Python` `Excel`
 
-Analyzed 30,000+ banking records to build a star-schema data model and a composite risk-scoring engine.
-
-- Built a normalized **Star Schema** data model
-- Developed a **Risk Scoring Model** segmenting customers by default risk
-- Performed **Roll Rate / Delinquency Transition Analysis**
-- Designed a fully formula-driven **Interactive Excel Dashboard**
+Built a star-schema credit risk model on 30,000+ banking records to segment customers by default risk and flag accounts likely to roll into delinquency.
+- Star-schema data model + composite risk-scoring engine
+- Roll-rate / delinquency transition analysis
+- Formula-driven interactive Excel dashboard
 
 ---
 
 ### 🛒 [E-Commerce Revenue & Retention Analytics](https://github.com/sachin-data-analyst1/ecommerce-sales-insights-sql-powerbi)
-**Tech Stack:** SQL • Python
+`SQL` `Python`
 
-Built a full retention-analytics pipeline on ~100K e-commerce orders.
-
-- **Customer Segmentation** using RFM analysis
-- Advanced **SQL Window Functions** (NTILE, cohort logic)
-- Built a **Data Validation Framework** for integrity checks
-- Ran an **A/B Test** to evaluate a loyalty coupon pilot
-- Delivered actionable **business insights** for retention strategy
+Analyzed ~100K e-commerce orders to understand what drives repeat purchases and tested an intervention to improve it.
+- RFM customer segmentation via SQL window functions
+- Custom data validation framework for integrity checks
+- A/B test evaluating a loyalty coupon pilot
 
 ---
 
 ### 👨‍💼 [HR Analytics: Employee Attrition Dashboard](https://github.com/sachin-data-analyst1/hr-analytics-employee-attrition-dashboard)
-**Tech Stack:** SQL • Python • Excel
+`SQL` `Python` `Excel`
 
-Analyzed workforce data to uncover attrition drivers and support HR decision-making.
+Investigated why employees leave and built a scoring system to flag who's likely to leave next.
+- Attrition analysis by department, role, and tenure
+- Rule-based retention risk score
+- Interactive Excel dashboard with dynamic filters
 
-- **Employee Attrition Analysis** across department, role, and tenure
-- Built a rule-based **Retention Risk Score**
-- Designed an **Interactive Excel Dashboard** with dynamic filters
-- Delivered **KPI Reporting** and workforce insights
+<br>
 
----
+## Core Skills
 
-## 📈 Core Skills
+SQL Analytics &nbsp;•&nbsp; Data Cleaning &nbsp;•&nbsp; ETL &nbsp;•&nbsp; Data Validation &nbsp;•&nbsp; Data Modeling &nbsp;•&nbsp; Power BI Dashboards &nbsp;•&nbsp; Excel Dashboards &nbsp;•&nbsp; Statistical Analysis &nbsp;•&nbsp; Business Intelligence &nbsp;•&nbsp; KPI Reporting &nbsp;•&nbsp; Customer Segmentation &nbsp;•&nbsp; Root Cause Analysis
 
-| | | |
-|---|---|---|
-| ✅ SQL Analytics | ✅ Data Cleaning | ✅ ETL |
-| ✅ Data Validation | ✅ Data Modeling | ✅ Power BI Dashboards |
-| ✅ Excel Dashboards | ✅ Statistical Analysis | ✅ Business Intelligence |
-| ✅ KPI Reporting | ✅ Customer Segmentation | ✅ Root Cause Analysis |
-| ✅ Azure Data Engineering | | |
+<br>
 
----
+## What I'm Looking For
 
-## 📊 GitHub Stats
+Open to **Data Analyst** roles where I can put SQL, Python, and Power BI to work on real business problems — while continuing to build out my Azure Data Engineering skill set.
+
+<br>
 
 <div align="center">
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin-data-analyst1&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-data-analyst1&layout=compact&hide_border=true)
+📧 **dhules43@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sachindhule) &nbsp;·&nbsp; [GitHub](https://github.com/sachin-data-analyst1)
 
-</div>
-
----
-
-## ⭐ Career Objective
-
-Seeking opportunities as a **Data Analyst** where I can leverage SQL, Python, Power BI, and data analytics to transform business data into actionable insights while continuously expanding my expertise in Azure Data Engineering.
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-📧 **dhules43@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sachindhule) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/sachin-data-analyst1)
-
-**Thanks for visiting my profile! 😊**
+<sub>Thanks for stopping by 😊</sub>
 
 </div>
