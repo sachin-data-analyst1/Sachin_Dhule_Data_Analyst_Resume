@@ -1,94 +1,139 @@
 <div align="center">
 
-# Sachin Dhule
+# Hi 👋, I'm Sachin Dhule
 
-**Data Analyst — SQL · Python · Power BI · Excel**
+### 📊 Data Analyst | SQL • Python • Power BI • Excel
 
-Turning raw business data into decisions people can act on.
+Transforming raw data into meaningful business insights through analytics, visualization, and data-driven decision-making.
 
-[✉️ Email](mailto:dhules43@gmail.com) &nbsp;·&nbsp; [in LinkedIn](https://linkedin.com/in/sachindhule) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/sachin-data-analyst1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/sachindhule)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:dhules43@gmail.com)
 
 </div>
-
-<br>
-
-## About
-
-I'm a B.Com graduate and former Data Analyst Intern at **Techonsy Software Pvt. Ltd.**, working at the intersection of SQL, Python, and BI tools to turn messy datasets into dashboards and decisions. I like the full loop — pulling data out of a database, validating it, and shipping something a stakeholder can actually use.
-
-Currently deepening my cloud skills with **Azure Data Engineering** (ADF, Synapse, Data Lake, Databricks).
-
-<br>
-
-## How I Approach a Problem
-
-| Step | What I do |
-|:--|:--|
-| **1. Understand** | Clarify the business question before touching a single row of data |
-| **2. Clean & Model** | Validate, structure, and query the data in SQL/Python — no dashboard until the numbers are trustworthy |
-| **3. Visualize & Recommend** | Build the dashboard and pair every chart with a plain-English takeaway |
-
-<br>
-
-## Tech Stack
-
-| Category | Tools |
-|:--|:--|
-| **Querying & Programming** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy) |
-| **Visualization** | Power BI, Tableau, Advanced Excel |
-| **Cloud & Data Engineering** | Azure SQL Database, Azure Data Factory, Azure Synapse Analytics, Azure Data Lake, Azure Databricks |
-| **Tooling** | Git, GitHub, GitHub Copilot, ChatGPT |
-
-<br>
-
-## Featured Projects
-
-### 🏦 [Bank Credit Risk & Collections Analytics](https://github.com/sachin-data-analyst1/bank-credit-risk-collections-analytics)
-`SQL` `Python` `Excel`
-
-Built a star-schema credit risk model on 30,000+ banking records to segment customers by default risk and flag accounts likely to roll into delinquency.
-- Star-schema data model + composite risk-scoring engine
-- Roll-rate / delinquency transition analysis
-- Formula-driven interactive Excel dashboard
 
 ---
 
-### 🛒 [E-Commerce Revenue & Retention Analytics](https://github.com/sachin-data-analyst1/ecommerce-sales-insights-sql-powerbi)
-`SQL` `Python`
+## 👨‍💻 About Me
 
-Analyzed ~100K e-commerce orders to understand what drives repeat purchases and tested an intervention to improve it.
-- RFM customer segmentation via SQL window functions
-- Custom data validation framework for integrity checks
-- A/B test evaluating a loyalty coupon pilot
+* 📊 Passionate about solving business problems using data.
+* 💼 Former **Data Analyst Intern** at Techonsy Software Pvt. Ltd.
+* 🎓 Bachelor of Commerce (B.Com).
+* 📈 Experienced in SQL, Python, Power BI, and Advanced Excel.
+* 🌱 Currently learning **Azure Data Engineering** (Azure Data Factory, Synapse Analytics, Data Lake & Databricks).
+* 🎯 Interested in Data Analytics, Business Intelligence, and Data Engineering.
 
 ---
 
-### 👨‍💼 [HR Analytics: Employee Attrition Dashboard](https://github.com/sachin-data-analyst1/hr-analytics-employee-attrition-dashboard)
-`SQL` `Python` `Excel`
+# 🛠️ Technical Skills
 
-Investigated why employees leave and built a scoring system to flag who's likely to leave next.
-- Attrition analysis by department, role, and tenure
-- Rule-based retention risk score
-- Interactive Excel dashboard with dynamic filters
+### 💻 Programming & Querying
 
-<br>
+* SQL (PostgreSQL, MySQL)
+* Python (Pandas, NumPy)
 
-## Core Skills
+### 📊 Data Visualization
 
-SQL Analytics &nbsp;•&nbsp; Data Cleaning &nbsp;•&nbsp; ETL &nbsp;•&nbsp; Data Validation &nbsp;•&nbsp; Data Modeling &nbsp;•&nbsp; Power BI Dashboards &nbsp;•&nbsp; Excel Dashboards &nbsp;•&nbsp; Statistical Analysis &nbsp;•&nbsp; Business Intelligence &nbsp;•&nbsp; KPI Reporting &nbsp;•&nbsp; Customer Segmentation &nbsp;•&nbsp; Root Cause Analysis
+* Power BI
+* Tableau
+* Advanced Excel
 
-<br>
+### 🗄️ Databases
 
-## What I'm Looking For
+* PostgreSQL
+* MySQL
 
-Open to **Data Analyst** roles where I can put SQL, Python, and Power BI to work on real business problems — while continuing to build out my Azure Data Engineering skill set.
+### ☁️ Cloud & Data Engineering
 
-<br>
+* Azure SQL Database
+* Azure Data Factory
+* Azure Synapse Analytics
+* Azure Data Lake
+* Azure Databricks
 
-<div align="center">
+### 🔧 Tools
 
-📧 **dhules43@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/sachindhule) &nbsp;·&nbsp; [GitHub](https://github.com/sachin-data-analyst1)
+* Git
+* GitHub
+* GitHub Copilot
+* ChatGPT
 
-<sub>Thanks for stopping by 😊</sub>
+### 📈 Analytics
 
-</div>
+* ETL
+* EDA
+* Data Validation
+* Data Modeling
+* KPI Reporting
+* Statistical Analysis
+* A/B Testing
+* Customer Segmentation (RFM)
+* Root Cause Analysis
+
+---
+
+# 🚀 Featured Projects
+
+## 🏦 Bank Credit Risk & Collections Analytics
+
+**Tech Stack:** SQL • Python • Excel
+
+✔ Analyzed a **30,000+** customer credit portfolio
+
+✔ Designed a **Star Schema** data model
+
+✔ Built a **Risk Scoring Model**
+
+✔ Created KPI dashboards for collections analysis
+
+🔗 Repository:
+https://github.com/sachin-data-analyst1/bank-credit-risk-collections-analytics
+
+---
+
+## 🛒 E-Commerce Marketplace Revenue & Retention Intelligence
+
+**Tech Stack:** SQL • Python
+
+✔ Built SQL data validation framework
+
+✔ Performed **RFM Customer Segmentation**
+
+✔ Conducted **A/B Testing**
+
+✔ Generated business insights for customer retention
+
+🔗 Repository:
+https://github.com/sachin-data-analyst1/ecommerce-sales-insights-sql-powerbi
+
+---
+
+## 👨‍💼 HR Analytics: Employee Attrition & Workforce Insights
+
+**Tech Stack:** SQL • Python • Excel
+
+✔ Employee Attrition Analysis
+
+✔ Retention Risk Scoring
+
+✔ KPI Dashboard
+
+✔ Workforce Analytics
+
+🔗 Repository:
+https://github.com/sachin-data-analyst1/hr-analytics-employee-attrition-dashboard
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities as a **Data Analyst** where I can leverage SQL, Python, Power BI, and business analytics to transform data into actionable insights while continuously expanding my expertise in Azure Data Engineering.
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** [dhules43@gmail.com](mailto:dhules43@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/sachindhule
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
